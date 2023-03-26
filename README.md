@@ -9,4 +9,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=maixiaohai&theme=buefy&show_icons=true)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maixiaohai&layout=compact&theme=buefy&langs_count=10&hide=html,javascript,css,freemarker)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maixiaohai&layout=compact&theme=buefy&langs_count=10&hide=html,javascript,css,freemarker)
