@@ -5,7 +5,7 @@
 - 👨‍💻 I’m a software engineer working in Beijing, China.
 - 🌱 I’m currently focus on distributed system, such as Message Queue, DataLake, OLAP.
 - 📚 I’m learning English and Cantonese.
-- 🔭 I'm Apache RocketMQ Committer, Prometheus Contributor, ApacheCon Asia 2021 Speaker.
+- 🔭 I'm Apache RocketMQ Committer, Prometheus Contributor, ApacheCon Asia 2021 Speaker, DAMS 2023 Speaker.
 
 ![](https://github-readme-stats.vercel.app/api?username=maixiaohai&theme=buefy&show_icons=true)
     
